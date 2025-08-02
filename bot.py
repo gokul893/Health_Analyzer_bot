@@ -5,10 +5,11 @@ import pandas as pd
 import google.generativeai as genai
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes, CommandHandler
+import os
 
 # -------------------- CONFIG --------------------
-BOT_TOKEN = '7563166309:AAE-Ur1gLXlDZHV5_MEW85v_feOMewWWRjs'  # 🔁 Replace with your actual bot token
-GEMINI_API_KEY = 'AIzaSyB3LtowMdtiC0yPia_mpQEy6ZzPr8GN7DU'  # 🔁 Replace with your actual Gemini API key
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 CSV_PATH = 'doctor_directory_100.csv'  # ✅ Make sure this file is in the same folder
 
 genai.configure(api_key=GEMINI_API_KEY)
@@ -133,3 +134,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
