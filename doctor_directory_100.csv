@@ -1,0 +1,101 @@
+Doctor Name,Specialist,Hospital Name,Timings
+Dr. Aravind Gupta,Orthopedic,SRM Medical Center,2 PM - 5 PM
+Dr. Faheem Rao,Psychiatrist,SRM Medical Center,11 AM - 3 PM
+Dr. Gayathri Reddy,Nephrologist,SRM Medical Center,2 PM - 5 PM
+Dr. Rachita Joshi,Pediatrician,SRM Medical Center,9 AM - 1 PM
+Dr. Dinesh Joshi,Psychiatrist,SRM Medical Center,2 PM - 5 PM
+Dr. Anita Joshi,Neurologist,SRM Medical Center,11 AM - 3 PM
+Dr. Priya Bose,Nephrologist,SRM Medical Center,4 PM - 8 PM
+Dr. Dinesh Joshi,Urologist,SRM Medical Center,9 AM - 1 PM
+Dr. Kavitha Pandey,Pediatrician,SRM Medical Center,2 PM - 5 PM
+Dr. Faheem Nair,Dermatologist,SRM Medical Center,2 PM - 5 PM
+Dr. Meenakshi Kumar,Neurologist,SRM Medical Center,2 PM - 5 PM
+Dr. Vinod Rao,Hematologist,SRM Medical Center,1 PM - 4 PM
+Dr. Gopalakrishnan Gupta,Nephrologist,SRM Medical Center,2 PM - 5 PM
+Dr. Dinesh Verma,Cardiologist,SRM Medical Center,10 AM - 2 PM
+Dr. Gopalakrishnan Reddy,Pediatrician,SRM Medical Center,10 AM - 2 PM
+Dr. Priya Sundar,Pediatrician,SRM Medical Center,1 PM - 4 PM
+Dr. Vinod Ali,Oncologist,SRM Medical Center,10 AM - 2 PM
+Dr. Lakshmi Das,Cardiologist,SRM Medical Center,10 AM - 2 PM
+Dr. Aravind Menon,Oncologist,SRM Medical Center,3 PM - 6 PM
+Dr. Priya Sundar,Hematologist,SRM Medical Center,11 AM - 3 PM
+Dr. Naveen Ali,Cardiologist,SRM Medical Center,11 AM - 3 PM
+Dr. Suresh Ali,Nephrologist,SRM Medical Center,2 PM - 5 PM
+Dr. Gopalakrishnan Ali,Psychiatrist,SRM Medical Center,9 AM - 1 PM
+Dr. Shruti Chopra,ENT Specialist,SRM Medical Center,4 PM - 8 PM
+Dr. Gayathri Gupta,Neurologist,SRM Medical Center,10 AM - 2 PM
+Dr. Shruti Sundar,Psychiatrist,SRM Medical Center,11 AM - 3 PM
+Dr. Vinod Singh,Endocrinologist,SRM Medical Center,2 PM - 5 PM
+Dr. Shruti Balu,Dermatologist,SRM Medical Center,3 PM - 6 PM
+Dr. Suresh Das,General Physician,SRM Medical Center,10 AM - 2 PM
+Dr. Vinod Rao,Gastroenterologist,SRM Medical Center,10 AM - 2 PM
+Dr. Sathish Ali,Endocrinologist,SRM Medical Center,2 PM - 5 PM
+Dr. Kavitha Mishra,Pediatrician,SRM Medical Center,10 AM - 2 PM
+Dr. Priya Gupta,Oncologist,SRM Medical Center,9 AM - 1 PM
+Dr. Anita Das,Hematologist,SRM Medical Center,2 PM - 5 PM
+Dr. Kavitha Gupta,Cardiologist,SRM Medical Center,9 AM - 1 PM
+Dr. Sathish Singh,ENT Specialist,SRM Medical Center,11 AM - 3 PM
+Dr. Dinesh Nair,Pediatrician,SRM Medical Center,4 PM - 8 PM
+Dr. Bhanu Kumar,Pediatrician,SRM Medical Center,9 AM - 1 PM
+Dr. Rachita Menon,Neurologist,SRM Medical Center,3 PM - 6 PM
+Dr. Meenakshi Ali,Urologist,SRM Medical Center,3 PM - 6 PM
+Dr. Faheem Ali,General Physician,SRM Medical Center,2 PM - 5 PM
+Dr. Gayathri Nair,Pediatrician,SRM Medical Center,4 PM - 8 PM
+Dr. Faheem Das,Nephrologist,SRM Medical Center,1 PM - 4 PM
+Dr. Suresh Menon,ENT Specialist,SRM Medical Center,4 PM - 8 PM
+Dr. Aravind Mishra,General Physician,SRM Medical Center,9 AM - 1 PM
+Dr. Dinesh Singh,Nephrologist,SRM Medical Center,2 PM - 5 PM
+Dr. Anita Singh,ENT Specialist,SRM Medical Center,9 AM - 1 PM
+Dr. Anita Sharma,Nephrologist,SRM Medical Center,4 PM - 8 PM
+Dr. Meenakshi Nair,Orthopedic,SRM Medical Center,9 AM - 1 PM
+Dr. Faheem Das,Hematologist,SRM Medical Center,9 AM - 1 PM
+Dr. Vinod Chopra,Neurologist,SRM Medical Center,2 PM - 5 PM
+Dr. Rachita Kumar,Psychiatrist,SRM Medical Center,9 AM - 1 PM
+Dr. Rachita Menon,Gastroenterologist,SRM Medical Center,10 AM - 2 PM
+Dr. Shruti Singh,General Physician,SRM Medical Center,11 AM - 3 PM
+Dr. Faheem Menon,Pediatrician,SRM Medical Center,3 PM - 6 PM
+Dr. Faheem Verma,Orthopedic,SRM Medical Center,11 AM - 3 PM
+Dr. Meenakshi Reddy,ENT Specialist,SRM Medical Center,3 PM - 6 PM
+Dr. Sathish Singh,ENT Specialist,SRM Medical Center,1 PM - 4 PM
+Dr. Aravind Reddy,Dermatologist,SRM Medical Center,11 AM - 3 PM
+Dr. Dinesh Singh,Endocrinologist,SRM Medical Center,11 AM - 3 PM
+Dr. Kumar Das,Gastroenterologist,SRM Medical Center,9 AM - 1 PM
+Dr. Harish Bose,Cardiologist,SRM Medical Center,3 PM - 6 PM
+Dr. Dinesh Rao,Pulmonologist,SRM Medical Center,3 PM - 6 PM
+Dr. Vinod Reddy,Psychiatrist,SRM Medical Center,10 AM - 2 PM
+Dr. Kumar Joshi,General Physician,SRM Medical Center,1 PM - 4 PM
+Dr. Deepa Bose,Urologist,SRM Medical Center,9 AM - 1 PM
+Dr. Dinesh Iyer,Nephrologist,SRM Medical Center,2 PM - 5 PM
+Dr. Bhanu Sundar,Hematologist,SRM Medical Center,9 AM - 1 PM
+Dr. Kumar Sharma,Psychiatrist,SRM Medical Center,10 AM - 2 PM
+Dr. Aravind Patel,General Physician,SRM Medical Center,11 AM - 3 PM
+Dr. Faheem Menon,Cardiologist,SRM Medical Center,1 PM - 4 PM
+Dr. Lakshmi Bose,Cardiologist,SRM Medical Center,11 AM - 3 PM
+Dr. Dinesh Nair,Oncologist,SRM Medical Center,4 PM - 8 PM
+Dr. Anita Bose,Hematologist,SRM Medical Center,1 PM - 4 PM
+Dr. Priya Verma,Gastroenterologist,SRM Medical Center,11 AM - 3 PM
+Dr. Vinod Balu,Pediatrician,SRM Medical Center,1 PM - 4 PM
+Dr. Gayathri Chopra,Urologist,SRM Medical Center,3 PM - 6 PM
+Dr. Vinod Das,Cardiologist,SRM Medical Center,2 PM - 5 PM
+Dr. Shruti Balu,Nephrologist,SRM Medical Center,9 AM - 1 PM
+Dr. Dinesh Kumar,Oncologist,SRM Medical Center,11 AM - 3 PM
+Dr. Kumar Sharma,Urologist,SRM Medical Center,1 PM - 4 PM
+Dr. Meenakshi Balu,Nephrologist,SRM Medical Center,10 AM - 2 PM
+Dr. Sathish Verma,Neurologist,SRM Medical Center,4 PM - 8 PM
+Dr. Faheem Sharma,Dermatologist,SRM Medical Center,3 PM - 6 PM
+Dr. Meenakshi Joshi,Neurologist,SRM Medical Center,3 PM - 6 PM
+Dr. Suresh Verma,General Physician,SRM Medical Center,1 PM - 4 PM
+Dr. Priya Iyer,Endocrinologist,SRM Medical Center,4 PM - 8 PM
+Dr. Deepa Sundar,ENT Specialist,SRM Medical Center,11 AM - 3 PM
+Dr. Dinesh Nair,Oncologist,SRM Medical Center,3 PM - 6 PM
+Dr. Dinesh Reddy,Pulmonologist,SRM Medical Center,3 PM - 6 PM
+Dr. Meenakshi Verma,Pulmonologist,SRM Medical Center,2 PM - 5 PM
+Dr. Gopalakrishnan Joshi,Pulmonologist,SRM Medical Center,3 PM - 6 PM
+Dr. Vinod Bose,Psychiatrist,SRM Medical Center,1 PM - 4 PM
+Dr. Kavitha Reddy,Neurologist,SRM Medical Center,1 PM - 4 PM
+Dr. Suresh Iyer,Oncologist,SRM Medical Center,1 PM - 4 PM
+Dr. Aravind Pandey,Oncologist,SRM Medical Center,1 PM - 4 PM
+Dr. Faheem Chopra,Gastroenterologist,SRM Medical Center,1 PM - 4 PM
+Dr. Faheem Mishra,Gastroenterologist,SRM Medical Center,10 AM - 2 PM
+Dr. Gopalakrishnan Gupta,Urologist,SRM Medical Center,3 PM - 6 PM
+Dr. Shruti Joshi,Psychiatrist,SRM Medical Center,4 PM - 8 PM
